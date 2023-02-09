@@ -1,7 +1,7 @@
 <?php
 
-define("PI",3.14159);
+define("PI", 3.14159);
 
-$constant="constant";
+$constant = "constant";
 
 echo "Value of PI={$constant("PI")}"; //constant value bar bar define kora jay na

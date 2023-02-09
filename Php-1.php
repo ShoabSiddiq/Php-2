@@ -1,6 +1,4 @@
 <?php
 
-echo "Hello world";
+echo "Hello world\n";
 print "Hello shoab";
-
-
